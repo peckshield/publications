@@ -1,4 +1,15 @@
-# publications
+# Audit Reports
+
+## dForce Network
+
+### DIP001
+[Report](audit_reports/DIP001_audit_report_2020_03_en_1_0.pdf)
+
+### USR
+[Report](audit_reports/USR_audit_report_2020_05_en_1_0.pdf)
+
+### XSwap
+[Report](audit_reports/XSwap_audit_report_2020_06_en_1_0.pdf)
 
 ## InstaDApp Smart Accounts
 
