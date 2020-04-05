@@ -1,5 +1,11 @@
 # publications
 
+## dForce Network
+
+[DIP001](audit_reports/DIP001_audit_report_2020_03_en_1_0.pdf)
+[USR](audit_reports/USR_audit_report_2020_05_en_1_0.pdf)
+[XSwap](audit_reports/XSwap_audit_report_2020_06_en_1_0.pdf)
+
 ## InstaDApp Smart Accounts
 
 During 02/25/2020 to 03/03/2020, we had the opportunity to perform an independent security audit on an improved version of InstaDApp smart contract wallets, i.e., InstaDApp Smart Accounts.
