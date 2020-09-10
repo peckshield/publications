@@ -32,10 +32,6 @@ The complete report can be found [here](audit_reports/InstaDApp_audit_report_202
 
 [Report](audit_reports/set_audit_report_2019_28_en_1_0.pdf)
 
-## Harmony
-
-[Report](audit_reports/harmony_audit_report_2019_22_v0.2.pdf)
-
 ## Maker MCD
 
 [Report](audit_reports/maker_audit_report_2019_16_en_1_0.pdf)
