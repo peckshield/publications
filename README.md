@@ -53,7 +53,7 @@ The complete report can be found [here](audit_reports/InstaDApp_audit_report_202
 [Report](dodo_audit_report_2020_16_en_1_0.pdf)
 
 ## Harmony
-[Report](harmony_audit_report_2019_22_v0.2.pdf)
+[Report](peckshield-audit-report-harmony-v0.4.pdf)
 
 # StarkEx
 [Report](starkex_audit_report_2019_29_en_1_0.pdf)
