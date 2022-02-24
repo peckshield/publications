@@ -1,5 +1,9 @@
 # Audit Reports
 
+## Solidly 
+
+[Report](audit_reports/PeckShield-Audit-Report-Solidly-v1.0.pdf)
+
 ## AaveV3
 
 [Report](audit_reports/PeckShield-Audit-Report-AaveV3-v1.0.pdf)
