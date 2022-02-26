@@ -1,5 +1,10 @@
 # Audit Reports
 
+## Lens
+
+[Report](audit_reports/PeckShield-Audit-Report-LensProtocol-v1.0.pdf)
+
+
 ## Solidly 
 
 [Report](audit_reports/PeckShield-Audit-Report-Solidly-v1.0.pdf)
